@@ -6,8 +6,8 @@
 function resultPercentage(oldPay, newPay) {
 
      let subtract = oldPay - newPay;
-     let division = subtract / oldPay
-     let multiply = division * 100
+     let division = subtract / oldPay;
+     let multiply = division * 100;
 
      return multiply;
 
